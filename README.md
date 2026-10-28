@@ -58,6 +58,12 @@ TAVILY_API_KEY=
 - **结构可以抄，事实必须真** —— 编造数字会被 AI 交叉验证全盘否定
 - **单次结果不下结论** —— 看三次以上趋势
 
+## 相关链接
+
+- **官网**：[oceangtm.com](https://oceangtm.com/) —— 外贸独立站 GEO 服务商
+- **Skill 下载页**：[oceangtm.com/skill.html](https://oceangtm.com/skill.html) —— 免登录直接下载 zip
+- **方法来源**：[为什么问 AI 推荐永远没有我们公司](https://oceangtm.com/blog/how-to-do-geo-content-fast-2026.html)
+
 ## License
 
 MIT
